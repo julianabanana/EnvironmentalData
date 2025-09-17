@@ -1,2 +1,2 @@
-# EnvironmentalData
-A collection of data, graphs, maps and analysis of climatic conditions, specially focused on Colombia and South America. The data is imported from Copernicus, the EU database for environmental data.
+# Environmental Data
+A comprehensive collection of data, scripts, and analyses focusing on climatic conditions in Colombia and South America. This project leverages data from the Copernicus Climate Data Store (CDS), the European Union's flagship Earth observation program.
